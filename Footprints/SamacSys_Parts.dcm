@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP AP2202K-ADJTRG1
+D DiodesZetex AP2202K-ADJTRG1, Low Noise LDO Voltage Regulator, Adjustable 150mA, 2.3  13.2 V +/-2%, 5-Pin SOT-23
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/e861ef6f8b654668a5f87b1391b432c9.pdf
+$ENDCMP
+#
+$CMP ADE7953ACPZ
+D Single Phase Multifunction Metering IC with Neutral Current Measurement
+K
+F http://componentsearchengine.com/Datasheets/1/ADE7953ACPZ.pdf
+$ENDCMP
+#
+#End Doc Library

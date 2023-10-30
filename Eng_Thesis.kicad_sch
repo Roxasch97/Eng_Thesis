@@ -1,0 +1,48 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 97bd1b5a-123d-47f8-a974-72569e0e2197)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 50.8 13.97) (size 30.48 24.13) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 169631cb-4600-41da-8cbe-8c1369144896)
+    (property "Sheetname" "Measurement_Circuit" (at 50.8 13.2584 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Measurement_Circuit.kicad_sch" (at 50.8 38.6846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Eng_Thesis"
+        (path "/97bd1b5a-123d-47f8-a974-72569e0e2197" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 13.97 13.97) (size 33.02 24.13) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 403da9b1-219c-43a2-869b-4f14604ce1cf)
+    (property "Sheetname" "Power" (at 13.97 13.2584 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Power.kicad_sch" (at 13.97 38.6846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Eng_Thesis"
+        (path "/97bd1b5a-123d-47f8-a974-72569e0e2197" (page "2"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
