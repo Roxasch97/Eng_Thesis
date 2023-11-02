@@ -102,4 +102,29 @@ P 5 0 1 6 200 800 1400 800 1400 -1300 200 -1300 200 800 N
 ENDDRAW
 ENDDEF
 #
+#SamacSys ECAD Model TPS560200DBVR
+#/636599/1252753/2.50/5/3/Integrated Circuit
+DEF TPS560200DBVR IC 0 30 Y Y 1 F N
+F0 "IC" 1050 300 50 H V L CNN
+F1 "TPS560200DBVR" 1050 200 50 H V L CNN
+F2 "SOT95P280X145-5N" 1050 100 50 H I L CNN
+F3 "http://www.ti.com/lit/gpn/tps560200" 1050 0 50 H I L CNN
+F4 "17V Input, 500mA Synchronous Step-Down Regulator in SOT-23 with Advanced Eco-Mode&#153;" 1050 -100 50 H I L CNN "Description"
+F5 "1.45" 1050 -200 50 H I L CNN "Height"
+F6 "Texas Instruments" 1050 -300 50 H I L CNN "Manufacturer_Name"
+F7 "TPS560200DBVR" 1050 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "595-TPS560200DBVR" 1050 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS560200DBVR?qs=igp4D3uu33JvyBesN3zBxg%3D%3D" 1050 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "TPS560200DBVR" 1050 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/tps560200dbvr/texas-instruments?region=nac" 1050 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X EN 1 0 0 200 R 50 50 0 0 P
+X GND 2 0 -100 200 R 50 50 0 0 P
+X PH 3 0 -200 200 R 50 50 0 0 P
+X VIN 4 1200 0 200 L 50 50 0 0 P
+X VSENSE 5 1200 -100 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1000 100 1000 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
 #End Library

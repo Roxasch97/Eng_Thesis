@@ -18,4 +18,10 @@ K
 F http://componentsearchengine.com/Datasheets/1/ADE7953ACPZ.pdf
 $ENDCMP
 #
+$CMP TPS560200DBVR
+D 17V Input, 500mA Synchronous Step-Down Regulator in SOT-23 with Advanced Eco-Mode&#153;
+K
+F http://www.ti.com/lit/gpn/tps560200
+$ENDCMP
+#
 #End Doc Library
