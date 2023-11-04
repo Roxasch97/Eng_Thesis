@@ -24,4 +24,10 @@ K
 F http://www.ti.com/lit/gpn/tps560200
 $ENDCMP
 #
+$CMP STM32F030C8T6
+D 32-Bit MCU Cortex-M0 64KB Flash LQFP48 STM32F030C8T6, 32 bit ARM Cortex M0 Microcontroller 48MHz 64 kB Flash, 8 kB RAM, I2C 48-Pin LQFP
+K
+F http://www.st.com/web/en/resource/technical/document/datasheet/DM00088500.pdf
+$ENDCMP
+#
 #End Doc Library
