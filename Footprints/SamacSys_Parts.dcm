@@ -30,4 +30,16 @@ K
 F http://www.st.com/web/en/resource/technical/document/datasheet/DM00088500.pdf
 $ENDCMP
 #
+$CMP LF50ABDT-TR
+D LF50ABDT-TR, Low Dropout Voltage Regulator, 0.5A, 5 V +/-1%, 3-Pin DPAK
+K
+F http://www.st.com/web/en/resource/technical/document/datasheet/CD00000546.pdf
+$ENDCMP
+#
+$CMP SN6507DGQRQ1
+D Power Management Specialized - PMIC Automotive low-emission 36-V push-pull transformer driver with duty cycle control
+K
+F https://www.ti.com/lit/ds/symlink/sn6507-q1.pdf
+$ENDCMP
+#
 #End Doc Library

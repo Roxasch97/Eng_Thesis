@@ -195,4 +195,59 @@ P 5 0 1 6 200 500 1500 500 1500 -1600 200 -1600 200 500 N
 ENDDRAW
 ENDDEF
 #
+#SamacSys ECAD Model LF50ABDT-TR
+#/179648/1252753/2.50/3/3/Integrated Circuit
+DEF LF50ABDT-TR IC 0 30 Y Y 1 F N
+F0 "IC" 1450 300 50 H V L CNN
+F1 "LF50ABDT-TR" 1450 200 50 H V L CNN
+F2 "TO228P972X240-3N" 1450 100 50 H I L CNN
+F3 "http://www.st.com/web/en/resource/technical/document/datasheet/CD00000546.pdf" 1450 0 50 H I L CNN
+F4 "LF50ABDT-TR, Low Dropout Voltage Regulator, 0.5A, 5 V +/-1%, 3-Pin DPAK" 1450 -100 50 H I L CNN "Description"
+F5 "2.4" 1450 -200 50 H I L CNN "Height"
+F6 "STMicroelectronics" 1450 -300 50 H I L CNN "Manufacturer_Name"
+F7 "LF50ABDT-TR" 1450 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "511-LF50ABDT-TR" 1450 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/LF50ABDT-TR?qs=CNKVYtQHpo%252BOGu0VfDjPww%3D%3D" 1450 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "LF50ABDT-TR" 1450 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/lf50abdt-tr/stmicroelectronics?region=nac" 1450 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X INPUT 1 0 0 200 R 50 50 0 0 I
+X OUTPUT 3 0 -100 200 R 50 50 0 0 O
+X GROUND_(TAB) 4 1600 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1400 100 1400 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model SN6507DGQRQ1
+#/17201556/1252753/2.50/11/3/Integrated Circuit
+DEF SN6507DGQRQ1 IC 0 30 Y Y 1 F N
+F0 "IC" 1250 300 50 H V L CNN
+F1 "SN6507DGQRQ1" 1250 200 50 H V L CNN
+F2 "SOP50P490X110-11N" 1250 100 50 H I L CNN
+F3 "https://www.ti.com/lit/ds/symlink/sn6507-q1.pdf" 1250 0 50 H I L CNN
+F4 "Power Management Specialized - PMIC Automotive low-emission 36-V push-pull transformer driver with duty cycle control" 1250 -100 50 H I L CNN "Description"
+F5 "1.1" 1250 -200 50 H I L CNN "Height"
+F6 "Texas Instruments" 1250 -300 50 H I L CNN "Manufacturer_Name"
+F7 "SN6507DGQRQ1" 1250 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "595-SN6507DGQRQ1" 1250 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/SN6507DGQRQ1?qs=IPgv5n7u5QZ%252Bp55Hz2oW4w%3D%3D" 1250 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "SN6507DGQRQ1" 1250 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/sn6507dgqrq1/texas-instruments?region=nac" 1250 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X SW1 1 0 0 200 R 50 50 0 0 P
+X GND_1 2 0 -100 200 R 50 50 0 0 P
+X VCC 3 0 -200 200 R 50 50 0 0 P
+X EN/UVLO 4 0 -300 200 R 50 50 0 0 P
+X DC 5 0 -400 200 R 50 50 0 0 P
+X EP 11 700 -900 200 U 50 50 0 0 P
+X SW2 10 1400 0 200 L 50 50 0 0 P
+X GND_2 9 1400 -100 200 L 50 50 0 0 P
+X SS/ILIM 8 1400 -200 200 L 50 50 0 0 P
+X CLK 7 1400 -300 200 L 50 50 0 0 P
+X SR 6 1400 -400 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1200 100 1200 -700 200 -700 200 100 N
+ENDDRAW
+ENDDEF
+#
 #End Library
+
