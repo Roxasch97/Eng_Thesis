@@ -2185,8 +2185,8 @@
     (property "Datasheet" "~" (at 20.32 162.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid bdfd08cb-0330-4abc-9a19-3d0b451bddf0))
     (pin "1" (uuid f5578f80-b265-4f10-9ca2-1975680f63f0))
+    (pin "2" (uuid bdfd08cb-0330-4abc-9a19-3d0b451bddf0))
     (instances
       (project "Eng_Thesis"
         (path "/97bd1b5a-123d-47f8-a974-72569e0e2197/403da9b1-219c-43a2-869b-4f14604ce1cf"
@@ -2212,12 +2212,12 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 92623502-ac31-402f-92d9-85157d18dd84))
-    (pin "5" (uuid b5824db8-6a69-49e8-9d61-2b76add1cc1d))
-    (pin "7" (uuid b96bf1a3-a099-40b0-b459-e7b9086a4b83))
     (pin "2" (uuid 64fa773a-4098-455a-8b23-0faa70a38edb))
-    (pin "4" (uuid b14245af-de87-435e-adbb-3830756d7593))
-    (pin "6" (uuid 9c444b67-428b-4a50-9324-a2b5979f924d))
     (pin "3" (uuid d2954563-81a5-43a0-8110-aef3eedec2f3))
+    (pin "4" (uuid b14245af-de87-435e-adbb-3830756d7593))
+    (pin "5" (uuid b5824db8-6a69-49e8-9d61-2b76add1cc1d))
+    (pin "6" (uuid 9c444b67-428b-4a50-9324-a2b5979f924d))
+    (pin "7" (uuid b96bf1a3-a099-40b0-b459-e7b9086a4b83))
     (instances
       (project "Eng_Thesis"
         (path "/97bd1b5a-123d-47f8-a974-72569e0e2197/403da9b1-219c-43a2-869b-4f14604ce1cf"
@@ -2293,8 +2293,8 @@
     (property "Datasheet" "~" (at 168.91 148.59 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid 6eeb6d3e-0e30-418e-a33c-7ca05059b314))
     (pin "1" (uuid 96ac6284-af73-4fc4-b587-e1f37022fc3c))
+    (pin "2" (uuid 6eeb6d3e-0e30-418e-a33c-7ca05059b314))
     (instances
       (project "Eng_Thesis"
         (path "/97bd1b5a-123d-47f8-a974-72569e0e2197/403da9b1-219c-43a2-869b-4f14604ce1cf"
@@ -2581,8 +2581,8 @@
     (property "Datasheet" "~" (at 158.75 148.59 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid 98505732-2062-4ca5-bbd0-db39564dd618))
     (pin "1" (uuid f4dce530-848a-45e8-b620-ac9aeecfe716))
+    (pin "2" (uuid 98505732-2062-4ca5-bbd0-db39564dd618))
     (instances
       (project "Eng_Thesis"
         (path "/97bd1b5a-123d-47f8-a974-72569e0e2197/403da9b1-219c-43a2-869b-4f14604ce1cf"
@@ -2841,15 +2841,15 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "4" (uuid 2cb05d41-1baa-4799-bf0e-db7d459b9ef5))
-    (pin "10" (uuid ea4bc39e-c635-4d9a-a085-94b6001f70d4))
-    (pin "9" (uuid ee5abafa-14d0-43b6-b4cf-40c95ab7e13b))
-    (pin "7" (uuid c5fc853f-69f7-4f1e-8f34-60deb9206c7d))
-    (pin "3" (uuid eed3c74b-b1ff-4244-a608-a63adcb4e479))
     (pin "5" (uuid 6182294d-bc5a-47fc-98b9-092b818684a8))
-    (pin "1" (uuid 5cfec416-67c7-4574-9d6c-919edb3bf7ff))
-    (pin "2" (uuid 4f85120e-762c-48e3-8ff2-93014b2a595a))
     (pin "6" (uuid 8a19886a-fa52-44ed-a7c6-7a58b4df00bc))
     (pin "8" (uuid 34d09c46-34ee-4cae-86fd-58f1a856ed39))
+    (pin "9" (uuid ee5abafa-14d0-43b6-b4cf-40c95ab7e13b))
+    (pin "1" (uuid 5cfec416-67c7-4574-9d6c-919edb3bf7ff))
+    (pin "10" (uuid ea4bc39e-c635-4d9a-a085-94b6001f70d4))
+    (pin "2" (uuid 4f85120e-762c-48e3-8ff2-93014b2a595a))
+    (pin "3" (uuid eed3c74b-b1ff-4244-a608-a63adcb4e479))
+    (pin "7" (uuid c5fc853f-69f7-4f1e-8f34-60deb9206c7d))
     (instances
       (project "Eng_Thesis"
         (path "/97bd1b5a-123d-47f8-a974-72569e0e2197/403da9b1-219c-43a2-869b-4f14604ce1cf"
@@ -3184,8 +3184,8 @@
     (property "Datasheet" "~" (at 33.02 76.2 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid 8357432c-3c35-4330-bae8-6bb24a19ea1d))
     (pin "1" (uuid ce386d30-2109-48e2-af4a-f36b2f2df640))
+    (pin "2" (uuid 8357432c-3c35-4330-bae8-6bb24a19ea1d))
     (instances
       (project "Eng_Thesis"
         (path "/97bd1b5a-123d-47f8-a974-72569e0e2197/403da9b1-219c-43a2-869b-4f14604ce1cf"

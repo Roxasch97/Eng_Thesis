@@ -42,4 +42,16 @@ K
 F https://www.ti.com/lit/ds/symlink/sn6507-q1.pdf
 $ENDCMP
 #
+$CMP ISO6721RBDR
+D Digital Isolators General-purpose, dual-channel, 1/1 reverse pinout digital isolator
+K
+F https://www.arrow.com/en/products/iso6721rbdr/texas-instruments?region=nac
+$ENDCMP
+#
+$CMP ISO1541D
+D 2.5 kVrms Isolated Unidirectional Clock, Bidirectional I2C Isolators
+K
+F http://www.ti.com/lit/gpn/iso1541
+$ENDCMP
+#
 #End Doc Library
