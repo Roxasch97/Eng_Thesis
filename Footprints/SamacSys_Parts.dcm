@@ -54,4 +54,34 @@ K
 F http://www.ti.com/lit/gpn/iso1541
 $ENDCMP
 #
+$CMP 78250MC-R
+D Power Transformers Max250TX1.5kVDC 2.5mHD
+K
+F https://www.murata-ps.com/pub/data/magnetics/kmp_78250.pdf
+$ENDCMP
+#
+$CMP 78250MC
+D Transformer 1500VDC 9 X 12.7mm 6.65 X Gull Wing Surface Mount
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/fa326759a7685e878fd4a21d6e9ad640.pdf
+$ENDCMP
+#
+$CMP 78250JC
+D Power Transformers 2mH 0.6uH 48pF 1:1 turns 6Pin SMT
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/5e56a36ea877d0cc56db3d1e1b836c7a.pdf
+$ENDCMP
+#
+$CMP 78250JC-R
+D Compatible Converter SM Transformers,1500Vrms.
+K
+F https://www.murata.com/products/productdata/8816045981726/kmp-78250j.pdf?1648429826000
+$ENDCMP
+#
+$CMP ABS8
+D Diode Rectifier Bridge Single 800V 1A 4-Pin Case ABS T/R
+K
+F https://datasheetspdf.com/pdf-file/1391019/SMCDiode/ABS8/1
+$ENDCMP
+#
 #End Doc Library
