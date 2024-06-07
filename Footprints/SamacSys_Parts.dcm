@@ -84,4 +84,10 @@ K
 F https://datasheetspdf.com/pdf-file/1391019/SMCDiode/ABS8/1
 $ENDCMP
 #
+$CMP SDA08H1BD
+D Dip Switch SPST 8 Position Through Hole Slide (Standard) Actuator 25mA 24VDC
+K
+F https://www.ckswitches.com/media/1327/sda.pdf
+$ENDCMP
+#
 #End Doc Library
