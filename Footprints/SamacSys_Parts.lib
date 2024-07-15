@@ -381,4 +381,24 @@ P 5 0 1 6 200 100 1000 100 1000 -800 200 -800 200 100 N
 ENDDRAW
 ENDDEF
 #
+#SamacSys ECAD Model TB-5.08-P-2P_BL
+#/19292457/1252753/2.50/2/3/Connector
+DEF TB-5.08-P-2P_BL J 0 30 Y Y 1 F N
+F0 "J" 650 300 50 H V L CNN
+F1 "TB-5.08-P-2P_BL" 650 200 50 H V L CNN
+F2 "TB508P2PBL" 650 100 50 H I L CNN
+F3 "https://www.tme.eu/html/EN/pcb-mount-terminal-blocks-5-00-5-08-mm/ramka_3287_EN_pelny.html" 650 0 50 H I L CNN
+F4 "PCB terminal block; angled 90; 5.08mm; ways: 2; on PCBs; 1.5mm2" 650 -100 50 H I L CNN "Description"
+F5 "10" 650 -200 50 H I L CNN "Height"
+F6 "" 650 -300 50 H I L CNN "Mouser Part Number"
+F7 "" 650 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Ninigi" 650 -500 50 H I L CNN "Manufacturer_Name"
+F9 "TB-5.08-P-2P/BL" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X 1 1 0 0 200 R 50 50 0 0 P
+X 2 2 0 -100 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 600 100 600 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
 #End Library

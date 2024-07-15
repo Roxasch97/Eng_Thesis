@@ -90,4 +90,10 @@ K
 F https://www.ckswitches.com/media/1327/sda.pdf
 $ENDCMP
 #
+$CMP TB-5.08-P-2P_BL
+D PCB terminal block; angled 90; 5.08mm; ways: 2; on PCBs; 1.5mm2
+K
+F https://www.tme.eu/html/EN/pcb-mount-terminal-blocks-5-00-5-08-mm/ramka_3287_EN_pelny.html
+$ENDCMP
+#
 #End Doc Library
