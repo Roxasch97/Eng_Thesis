@@ -4,3 +4,5 @@
 _autosave-Eng_Thesis.kicad_pcb
 /Eng_Thesis-backups
 *.zip
+*.lck
+fp-info-cache

@@ -96,4 +96,10 @@ K
 F https://www.tme.eu/html/EN/pcb-mount-terminal-blocks-5-00-5-08-mm/ramka_3287_EN_pelny.html
 $ENDCMP
 #
+$CMP TL3305CF260QG
+D TACT, 50mA, 12VDC SPST-NO, Off-(On) Surface Mount
+K
+F https://configured-product-images.s3.amazonaws.com/2D/specs/TL3305CF260QG.pdf
+$ENDCMP
+#
 #End Doc Library

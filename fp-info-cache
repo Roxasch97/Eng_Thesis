@@ -1,4 +1,4 @@
-22662019627257799
+22663740828502218
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -62852,6 +62852,13 @@ Connector
 0
 2
 2
+LibLoader
+TL3305BF160QG
+TL3305BF160QG-1
+Switch
+0
+4
+4
 LibLoader
 XY126V-3P
 TB-5.08-P-2P/BL-1
