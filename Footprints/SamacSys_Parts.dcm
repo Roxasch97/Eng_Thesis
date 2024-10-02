@@ -102,4 +102,16 @@ K
 F https://configured-product-images.s3.amazonaws.com/2D/specs/TL3305CF260QG.pdf
 $ENDCMP
 #
+$CMP ADC-002-2
+D Conn DC Power F 2 POS Solder RA Thru-Hole 3 Terminal 1 Port Bag/T/R
+K
+F https://octopart.com/datasheet/adc-002-2-adam+tech-55509430
+$ENDCMP
+#
+$CMP PC-GK2.1
+D Socket; DC supply; male; 5.5/2.1mm; 5.5mm; 2.1mm; THT; angled 90
+K
+F https://www.tme.eu/Document/78afd4fb8a41e4211137cd818ea9e93d/PC-GK21.jpg
+$ENDCMP
+#
 #End Doc Library

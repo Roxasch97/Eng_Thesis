@@ -423,4 +423,46 @@ P 5 0 1 6 200 100 600 100 600 -200 200 -200 200 100 N
 ENDDRAW
 ENDDEF
 #
+#SamacSys ECAD Model ADC-002-2
+#/1228478/1252753/2.50/3/3/Connector
+DEF ADC-002-2 J 0 30 Y Y 1 F N
+F0 "J" 650 300 50 H V L CNN
+F1 "ADC-002-2" 650 200 50 H V L CNN
+F2 "ADC0022" 650 100 50 H I L CNN
+F3 "https://octopart.com/datasheet/adc-002-2-adam+tech-55509430" 650 0 50 H I L CNN
+F4 "Conn DC Power F 2 POS Solder RA Thru-Hole 3 Terminal 1 Port Bag/T/R" 650 -100 50 H I L CNN "Description"
+F5 "11.38" 650 -200 50 H I L CNN "Height"
+F6 "737-ADC-002-2" 650 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Adam-Tech/ADC-002-2?qs=TTVbHWoAP%2FT6XnD9wApSng%3D%3D" 650 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Adam Tech" 650 -500 50 H I L CNN "Manufacturer_Name"
+F9 "ADC-002-2" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X 1 1 800 -100 200 L 50 50 0 0 P
+X 2 2 800 0 200 L 50 50 0 0 P
+X 3 3 0 0 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 600 100 600 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model PC-GK2.1
+#/18472610/1252753/2.50/3/4/Connector
+DEF PC-GK2.1 J 0 30 Y Y 1 F N
+F0 "J" 650 300 50 H V L CNN
+F1 "PC-GK2.1" 650 200 50 H V L CNN
+F2 "PCGK21" 650 100 50 H I L CNN
+F3 "https://www.tme.eu/Document/78afd4fb8a41e4211137cd818ea9e93d/PC-GK21.jpg" 650 0 50 H I L CNN
+F4 "Socket; DC supply; male; 5.5/2.1mm; 5.5mm; 2.1mm; THT; angled 90" 650 -100 50 H I L CNN "Description"
+F5 "11.2" 650 -200 50 H I L CNN "Height"
+F6 "" 650 -300 50 H I L CNN "Mouser Part Number"
+F7 "" 650 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Ninigi" 650 -500 50 H I L CNN "Manufacturer_Name"
+F9 "PC-GK2.1" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X 2 2 0 0 200 R 50 50 0 0 P
+X 3 3 800 0 200 L 50 50 0 0 P
+X 4 4 800 -100 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 600 100 600 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
 #End Library
