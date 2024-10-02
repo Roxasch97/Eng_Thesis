@@ -1,4 +1,4 @@
-22663740828502218
+22667192442639748
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -62797,12 +62797,26 @@ Bridge Rectifier
 4
 4
 LibLoader
+ADC0022
+ADC-002-2-2
+Connector
+0
+3
+3
+LibLoader
 NE555DR
 D (R-PDSO-G8)
 Integrated Circuit
 0
 8
 8
+LibLoader
+PCGK21
+PC-GK2.1-3
+Connector
+0
+3
+3
 LibLoader
 QFN50P500X500X80-29N
 QFN50P500X500X80-29N
